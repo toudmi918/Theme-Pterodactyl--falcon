@@ -1,8 +1,8 @@
-# MinecraftPurpleTheme
+# Theme-Pterodactyl
 
 Install script:
 ```sh
-bash <(curl https://raw.githubusercontent.com/Angelillo15/MinecraftPurpleTheme/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/NurAzliYT/Theme-Pterodactyl/main/install.sh)
 ```
 
 Screenshots:
