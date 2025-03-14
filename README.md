@@ -2,7 +2,7 @@
 
 Install script:
 ```sh
-bash <(curl https://raw.githubusercontent.com/NurAzliYT/Theme-Pterodactyl/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/toudmi918/Theme-Pterodactyl--falcon/main/install.sh)
 ```
 
 Screenshots:
